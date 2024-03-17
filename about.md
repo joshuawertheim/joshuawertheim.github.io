@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My name is Joshua Wertheim.
+Joshua Wertheim is a Software Engineer based in the San Francisco Bay Area of California. 
 
-I have naturally become interested in many hobbies over the years.
+He has naturally become interested in a handful hobbies over the years.
 
-Baseball, cars, photography.
+Baseball, cars, photography -- these are just a few!
 
-Perhaps conveniently, these all are a tremendous part about what makes Japan great.
+Perhaps conveniently, they all have tremendous meaning about what makes Japan great.
 
-I have visited several times now and have grown a collection of awesome memories and stories that I would love to share. These will become _the series_. 
+Joshua has visited Japan several times and has grown a collection of awesome memories and stories that he loves to share. These are and will become _the Japan Series_[^1]. 
 
-Actually, intrepid readers may point out that Japan's final NPB postseason series ([Nippon Series](https://en.wikipedia.org/wiki/Japan_Series)) is typically also called the "Japan Series". 
+[^1]: Actually, intrepid readers may point out that Japan's final NPB postseason series ([Nippon Series](https://en.wikipedia.org/wiki/Japan_Series)) is typically also called the "Japan Series". 
