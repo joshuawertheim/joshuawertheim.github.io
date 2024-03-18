@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Monjayaki Shop"
+excerpt: "A small Monjayaki shop located on Tsukishima in Tokyo"
+image_url: https://www.dropbox.com/scl/fi/53s8qxofe8xxwkgom9w3v/manjuyaki_storefront.jpg?rlkey=ey1gixjry4qr0oz3az82shgh9&raw=1
 date:   2024-03-16 19:40:18 -0700
 categories: restaurant
 ---
 
-![alt text](https://www.dropbox.com/scl/fi/53s8qxofe8xxwkgom9w3v/manjuyaki_storefront.jpg?rlkey=ey1gixjry4qr0oz3az82shgh9&raw=1 "Storefront for a Monjayaki restaurant in Tsukishima")
+![alt text]({{ page.image_url | escape }} "Storefront for a Monjayaki restaurant in Tsukishima")
 
-*A small Monjayaki shop located on Tsukishima in Tokyo*
+*{{ page.excerpt }}*
 {:.image-caption}
 
 Wednesday night.
