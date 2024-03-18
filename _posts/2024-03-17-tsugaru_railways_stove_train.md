@@ -4,7 +4,7 @@ title:  "Tsugaru Railways Stove Train"
 excerpt: "An old-fashioned stove train in Goshogawara, Aomori"
 image_url: https://www.dropbox.com/scl/fi/96q7174l9po8q8j19g5sw/tsugaru_stove_train.jpg?rlkey=nhhj5h2876s6bj7oejiclokgo&raw=1
 date:   2024-03-17 22:41:18 -0700
-categories: restaurant
+categories: travel
 ---
 
 ![alt text]({{ page.image_url | escape }} "Stove Train")
