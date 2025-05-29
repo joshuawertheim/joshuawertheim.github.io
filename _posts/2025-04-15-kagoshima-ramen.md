@@ -32,6 +32,6 @@ Soon after, I received mine. In my peripheral vision I see a movement. Ah yes, m
 
 As the minutes went by with both of us slurping our soups in contentment, it was clear that we were also sharing in this fun experience.
 
-The students finished their bowls a couple minutes before me. They got up to leave. Before I knew it, my neigbhor stood right next to me and showed me his fist. He wanted a fist bump! I guess we became ramen pals without even saying a word.
+The students finished their bowls a couple minutes before me. They got up to leave. Before I knew it, my neighbor stood right next to me and showed me his fist. He wanted a fist bump! I guess we became ramen pals without even saying a word.
 
 The ramen was delicious, but the community experience there is what I'll always treasure.
