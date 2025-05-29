@@ -6,7 +6,7 @@ permalink: /about/
 
 Joshua Wertheim is a Software Engineer based in the San Francisco Bay Area of California. 
 
-He has naturally become interested in a handful hobbies over the years.
+He has naturally become interested in a handful of hobbies over the years.
 
 Baseball, cars, photography -- these are just a few!
 
